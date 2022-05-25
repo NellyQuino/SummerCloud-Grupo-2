@@ -64,4 +64,4 @@ Use Azure Files para las siguientes situaciones:
 
 Azure Queue Storage
 
-# :house: [Regresar](https://github.com/JazminQuino/SummerCloud-Grupo-2/blob/main/contenido/semana_dos.md)
+# :house: [Regresar](https://github.com/NellyQuino/SummerCloud-Grupo-2/blob/main/contenido/semana_dos.md)

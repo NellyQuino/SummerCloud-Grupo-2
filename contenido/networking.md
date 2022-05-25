@@ -71,4 +71,4 @@ Modelo de interconexión de sistemas abiertos (OSI):
 * Conexión universal
     * Integrar la red de área extensa (WAN) con Azure 
 
-# :house: [Regresar](https://github.com/JazminQuino/SummerCloud-Grupo-2/blob/main/contenido/semana_dos.md)
+# :house: [Regresar](https://github.com/NellyQuino/SummerCloud-Grupo-2/blob/main/contenido/semana_dos.md)

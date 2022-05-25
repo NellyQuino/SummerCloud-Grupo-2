@@ -84,4 +84,4 @@ Azure SQL Managed Instance facilita la migración de los datos locales en SQL Se
     <strong></strong>
 </p>
 
-# 🏠 [Regresar](https://github.com/NellyQuino/SummerCloud-Grupo-2)
+# 🏠 [Regresar](https://github.com/NellyQuino/SummerCloud-Grupo-2/blob/main/contenido/semana_dos.md)

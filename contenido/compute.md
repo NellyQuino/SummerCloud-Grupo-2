@@ -158,4 +158,4 @@ Functions y Logic Apps pueden crear orquestaciones complejas. Una orquestación 
     <strong></strong>
 </p>
 
-# :house: [Regresar](https://github.com/JazminQuino/SummerCloud-Grupo-2/blob/main/contenido/semana_dos.md)
+# :house: [Regresar](https://github.com/NellyQuino/SummerCloud-Grupo-2/blob/main/contenido/semana_dos.md)
