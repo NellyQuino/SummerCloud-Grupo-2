@@ -9,4 +9,4 @@
 # [Seguridad](https://github.com/JazminQuino/SummerCloud-Grupo-2/blob/main/contenido/security.md)
 # [Conectividad](https://github.com/JazminQuino/SummerCloud-Grupo-2/blob/main/contenido/connectivity.md)
 
-# :house: [Inicio](https://github.com/JazminQuino/SummerCloud-Grupo-2)
+# :house: [Inicio](https://github.com/NellyQuino/SummerCloud-Grupo-2)

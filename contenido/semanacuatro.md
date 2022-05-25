@@ -6,4 +6,4 @@
 # [SLA y el ciclo de vida del servicio](https://github.com/JazminQuino/SummerCloud-Grupo-2/blob/main/contenido/sla.md)
 
 
-# :house: [Inicio](https://github.com/JazminQuino/SummerCloud-Grupo-2)
+# :house: [Inicio](https://github.com/NellyQuino/SummerCloud-Grupo-2)
