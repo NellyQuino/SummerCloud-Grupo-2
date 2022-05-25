@@ -28,4 +28,4 @@
 ## Crédito de servicio 
  * El porcentaje del precio que ha pagado que se le abonará conforme al proceso de aprobación de reclamaciones.
 
-# :house: [Inicio](https://github.com/JazminQuino/SummerCloud-Grupo-2)
+# :house: [Inicio](https://github.com/NellyQuino/SummerCloud-Grupo-2/blob/main/contenido/semanacuatro.md)

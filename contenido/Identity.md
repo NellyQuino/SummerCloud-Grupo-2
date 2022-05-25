@@ -70,4 +70,4 @@ decisiones para permitir o denegar accesos.
 
 Señal, Decisión, Cumplimiento -IMAGEN
 
-# :house: [Inicio](https://github.com/JazminQuino/SummerCloud-Grupo-2)
+# :house: [Inicio](https://github.com/NellyQuino/SummerCloud-Grupo-2/blob/main/contenido/semanacuatro.md)
