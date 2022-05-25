@@ -13,4 +13,4 @@ Con **Azure Machine Learning**, puede realizar lo siguiente:
 * Deinir cuándo y dónde los datos en función de entrenamiento o prueba se procesan por medio la creación de canalizaciones.
 * Algoritmos de mejor rendimiento que se puedan utilizar en tiempo real.
   
-# :house: [Inicio](https://github.com/JazminQuino/SummerCloud-Grupo-2)
+# :house: [Inicio](https://github.com/NellyQuino/SummerCloud-Grupo-2/blob/main/contenido/semana_tres.md)

@@ -19,4 +19,4 @@ Un **medio automatizado** para administrar el proceso de compilación, configura
 * Puede apagar y desaprovisionar la máquina virtual,cuando ya nos use o necesite más.
 * Automatizar la creación y la administración de un entorno de laboratorio de pruebas.
 * 
-* # :house: [Inicio](https://github.com/JazminQuino/SummerCloud-Grupo-2)
+* # :house: [Inicio](https://github.com/NellyQuino/SummerCloud-Grupo-2/blob/main/contenido/semana_tres.md)

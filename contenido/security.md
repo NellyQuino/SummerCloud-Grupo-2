@@ -77,4 +77,4 @@ servidor aislado.
 * Permite elegir el tamaño de las MVs dentro del Host.
   
   
-# :house: [Inicio](https://github.com/JazminQuino/SummerCloud-Grupo-2)
+# :house: [Inicio](https://github.com/NellyQuino/SummerCloud-Grupo-2/blob/main/contenido/semana_tres.md)
